@@ -1,5 +1,15 @@
 ## Hello there 👋
 
+I'm Lucas, a first-year student at Algosup with a passion for software engineering and IT.
+
+💻 Currently, I am dedicated to my studies at Algosup, striving to learn as much as I can about IT to become a proficient software engineer. Together with a friend, we are working on a long-term project to develop a video game, and we are committed to making it the best it can be.
+
+🌍 With an open mind and a global perspective, I had the unique opportunity to live in Dakar, Senegal, for 3 years during my youth. This experience immersed me in a culture vastly different from that of France, broadening my understanding of the world and human interactions.
+
+✈️ I have a love for traveling, which continually expands my vision of the world, humanity, and myself.
+
+🎮 Through my interest in video games, I've honed essential soft skills such as perseverance, creativity, leadership, and strategic thinking, which are invaluable in a professional setting.
+
 <!--
 **LucasMegnan/LucasMegnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
