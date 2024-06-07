@@ -1,26 +1,55 @@
-## Hello there 👋
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExbGhpMGJndDl6ZXY4dmQwbmRuZGlja2pocHpleGtpbW5zeWIxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Description of the GIF" width="500">
+    <br>
+    <br>
+    I'm Lucas, a first-year Algosup student with a passion for software engineering and IT.
+    <br>
+    Having lived in Dakar, Senegal, and a love for traveling, I've gained a global perspective and essential soft skills.
+    <br>
+    Currently, I'm dedicated to my studies and developing a video game with a friend.
+</div>
 
-I'm Lucas, a first-year student at Algosup with a passion for software engineering and IT.
+<hr>
 
-💻 Currently, I am dedicated to my studies at Algosup, striving to learn as much as I can about IT to become a proficient software engineer. Together with a friend, we are working on a long-term project to develop a video game, and we are committed to making it the best it can be.
+<details>
+    <summary><h2> Stat GitHub </h2></summary>
+        <div align="center" style="margin-bottom:200px">
+            <img width=75% align="center" src="https://github-readme-stats.vercel.app/api?username=LucasMegnan&show_icons=true&theme=great-gatsby" alt="Lucas contributions" />
+            <!-- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeTAlgosup&show_icons=true&locale=en&layout=donut&theme=great-gatsby" alt="Maxime most used langages" /> -->
+            <div>
+                <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=LucasMegnan&theme=great-gatsby" alt="Lucas Contribution">
+            </div>
+        </div>
+</details>
 
-🌍 With an open mind and a global perspective, I had the unique opportunity to live in Dakar, Senegal, for 3 years during my youth. This experience immersed me in a culture vastly different from that of France, broadening my understanding of the world and human interactions.
+<hr>
 
-✈️ I have a love for traveling, which continually expands my vision of the world, humanity, and myself.
+<details>
+    <summary><h2> School's Project </h2></summary>
+        <p align="left">
+            <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-5&theme=great-gatsby&hide_border=false&show_icons=true" alt="2023-2024-project-5-flutter-team-5"></a>
+            <a href="https://github.com/algosup/2023-2024-project-4-sportshields-team-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-1&theme=great-gatsby&hide_border=false&show_icons=true" alt="2023-2024-project-4-sportshield-team-1"></a>
+            <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-5&theme=great-gatsby&hide_border=false&show_icons=true" alt="2023-2024-project-3-virtual-processor-team-5"></a>
+            <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-5&theme=great-gatsby&hide_border=false&show_icons=true" alt="2023-2024-project-2-x86-retrogaming-team-5"></a>
+        </p>
+</details>
 
-🎮 Through my interest in video games, I've honed essential soft skills such as perseverance, creativity, leadership, and strategic thinking, which are invaluable in a professional setting.
+<hr>
 
-<!--
-**LucasMegnan/LucasMegnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+    <summary><h2> Personnal Project </h2></summary>
+        <p align="left">
+        <a href="https://github.com/LucasMegnan/Pixel-Showdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasMegnan&repo=Pixel-Showdown&theme=great-gatsby&hide_border=false&show_icons=true" alt="Pixel-Showdown"></a>
+        </p>
+</details>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:&nbsp;
+
+<div align="center">
+    <a href = "mailto: lucas.megnan@algosup.com"><img loading="lazy" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucas-megnan/" target="_blank"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://discordapp.com/users/lulu_vroumette" target="_blank"><img loading="lazy" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+</div>
