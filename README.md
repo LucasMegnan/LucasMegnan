@@ -12,18 +12,6 @@
 <hr>
 
 <details open>
-    <summary><h2> Stat GitHub </h2></summary>
-        <div align="center" style="margin-bottom:200px">
-            <img width=75% align="center" src="https://github-readme-stats.vercel.app/api?username=LucasMegnan&show_icons=true&theme=great-gatsby" alt="Lucas contributions" />
-            <div>
-                <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=LucasMegnan&theme=great-gatsby" alt="Lucas Contribution">
-            </div>
-        </div>
-</details>
-
-<hr>
-
-<details open>
     <summary><h2> School's Project </h2></summary>
         <p align="left">
             <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-5&theme=great-gatsby&hide_border=false&show_icons=true" alt="2023-2024-project-5-flutter-team-5"></a>
