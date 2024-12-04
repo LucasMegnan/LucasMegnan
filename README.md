@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExbGhpMGJndDl6ZXY4dmQwbmRuZGlja2pocHpleGtpbW5zeWIxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Description of the GIF" width="500">
     <br>
     <br>
-    I'm Lucas, a first-year Algosup student with a passion for software engineering and IT.
+    I'm Lucas, a second-year Algosup student with a passion for software engineering and IT.
     <br>
     Having lived in Dakar, Senegal, and a love for traveling, I've gained a global perspective and essential soft skills.
     <br>
