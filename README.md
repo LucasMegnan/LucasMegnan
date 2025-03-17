@@ -36,7 +36,6 @@
 
 <p align="left">
     <a href="https://github.com/LucasMegnan/Pixel-Showdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasMegnan&repo=Pixel-Showdown&theme=great-gatsby&hide_border=false&show_icons=true" alt="Pixel Showdown"></a>
-    <a href="https://github.com/LucasMegnan/Terminal-Dungeon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasMegnan&repo=Terminal-Dungeon&theme=great-gatsby&hide_border=false&show_icons=true" alt="Terminal Dungeon"></a>
     <a href="https://github.com/LucasMegnan/Tomodachi-Sport"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasMegnan&repo=Tomodachi-Sport&theme=great-gatsby&hide_border=false&show_icons=true" alt="Tomodachi Sport"></a>
 </p>
 
